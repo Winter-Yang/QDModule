@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QDModule'
-  s.version          = '0.0.9'
+  s.version          = '0.1.0'
   s.summary          = '通用底层库'
   s.homepage         = 'https://github.com/Winter-Yang/TestSpecs.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
