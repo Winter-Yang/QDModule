@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'QDModule'
   s.version          = '0.0.1'
   s.summary          = '通用底层库'
-  s.homepage         = 'https://github.com/362694311@qq.com/QDModule'
+  s.homepage         = 'https://github.com/Winter-Yang/TestSpecs.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '362694311@qq.com' => 'yangwende@qudian.com' }
   s.source           = { :git => 'https://github.com/Winter-Yang/TestSpecs.git', :tag => s.version.to_s }
