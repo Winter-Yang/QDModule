@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - QDModule (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - QDModule (from `../`)
+
+EXTERNAL SOURCES:
+  QDModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
+  QDModule: ca45a29743eec7b7eda724fc9252e83cde289f38
+
+PODFILE CHECKSUM: 8b3c79eea1c13907d833a4c15d9f5f10ba15dd8b
+
+COCOAPODS: 1.2.1
