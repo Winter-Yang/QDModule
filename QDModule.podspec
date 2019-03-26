@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QDModule'
-  s.version          = '0.1.1'
-  s.summary          = '趣店生命周期通用底层库'
+  s.version          = '0.0.1'
+  s.summary          = '通用底层库'
   s.homepage         = 'https://github.com/362694311@qq.com/QDModule'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '362694311@qq.com' => 'yangwende@qudian.com' }
-  s.source           = { :git => 'git@git.qufenqi.com:app/QDModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:Winter-Yang/QDModule.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
